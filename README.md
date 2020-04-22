@@ -9,7 +9,7 @@
 演示截图
 --
 
-![image](http://apppay.xyz.com/index/githubimg/qdpay/qd.png)
+![image](http://apppay.xyz.com/index/githubimg/dfpay/dfpay.png)
 <br/>
 <br/>
 <hr/>
