@@ -9,7 +9,7 @@
 演示截图
 --
 
-![image](http://apppay.xyz.com/index/githubimg/dfpay/dfpay.png)
+![image](https://i.loli.net/2021/06/17/jOt1EwQ2lh7Sv9I.png)
 <br/>
 <br/>
 <hr/>
